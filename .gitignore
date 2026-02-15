@@ -1,0 +1,38 @@
+# ===== Python junk =====
+__pycache__/
+*.py[cod]
+
+# ===== Virtual environments =====
+.venv/
+venv/
+env/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== OS =====
+.DS_Store
+
+# ===== PyCharm =====
+.idea/
+*.iml
+
+# ===== ML project: omit all data + artefacts =====
+**/data/
+**/datasets/
+**/models/
+**/checkpoints/
+**/outputs/
+**/results/
+**/reports/
+**/logs/
+
+# common saved-model / serialised files
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# secrets
+.env

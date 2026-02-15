@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+venv/
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore Data
+data/raw/*
+data/processed/*
+
+# Keep the folder structure even if empty (optional trick)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
