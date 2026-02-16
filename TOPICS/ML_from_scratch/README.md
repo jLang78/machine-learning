@@ -44,3 +44,5 @@ Algorithms that model the underlying structure or distribution in the data ($X$)
 For consistency, I utilise a few simple datasets across multiple algorithms to see how different approaches handle the same data.
 * **Iris Dataset:** Used for Classification and Clustering.
 * **Salary/Experience Dataset:** Used for Simple Linear Regression.
+
+Please also note, that this is am iterative process, and more algorithms will be added as I come to terms with how they work 'under-the'hood' 
