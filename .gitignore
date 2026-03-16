@@ -21,6 +21,7 @@ env/
 **/data/
 **/datasets/
 **/models/
+!**/src/models/
 **/checkpoints/
 **/outputs/
 **/results/
