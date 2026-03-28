@@ -6,7 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore Data
-data/raw/*
+data/raw/creditcard.csv
 data/processed/*
 
 # Keep the folder structure even if empty (optional trick)
